@@ -1,0 +1,12 @@
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\CorreiosVipp\CorreiosVipp\bin\Debug\CorreiosVipp.exe.config
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\CorreiosVipp\CorreiosVipp\bin\Debug\CorreiosVipp.exe
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\CorreiosVipp\CorreiosVipp\bin\Debug\CorreiosVipp.pdb
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\CorreiosVipp\CorreiosVipp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\CorreiosVipp\CorreiosVipp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\CorreiosVipp\CorreiosVipp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\CorreiosVipp\CorreiosVipp\obj\Debug\CorreiosVipp.csprojResolveAssemblyReference.cache
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\CorreiosVipp\CorreiosVipp\obj\Debug\CorreiosVipp.Form1.resources
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\CorreiosVipp\CorreiosVipp\obj\Debug\CorreiosVipp.Properties.Resources.resources
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\CorreiosVipp\CorreiosVipp\obj\Debug\CorreiosVipp.csproj.GenerateResource.Cache
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\CorreiosVipp\CorreiosVipp\obj\Debug\CorreiosVipp.exe
+C:\Users\e.pereira\Documents\Visual Studio 2012\Projects\CorreiosVipp\CorreiosVipp\obj\Debug\CorreiosVipp.pdb
